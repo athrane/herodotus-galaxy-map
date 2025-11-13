@@ -1,0 +1,25 @@
+## Patch Variables:
+
+* __var_is_sector_selected__ ```Number```
+* __var_is_system_selected__ ```Number```
+* __var_planetarysystems_pos_array__ ```Array```
+* __var_sector_coord__ ```String```
+* __var_sector_id__ ```String```
+* __var_sector_name__ ```String```
+* __var_sector_pos_x__ ```Number```
+* __var_sector_pos_y__ ```Number```
+* __var_sector_pos_z__ ```Number```
+* __var_selected_object__ ```String```
+* __var_selected_sector__ ```Number```
+* __var_selected_system__ ```Number```
+* __var_system_coord__ ```String```
+* __var_system_id__ ```String```
+* __var_system_name__ ```String```
+* __var_system_pos_x__ ```Number```
+* __var_system_pos_y__ ```Number```
+* __var_system_pos_z__ ```Number```
+* __var_system_sector__ ```String```
+* __var_system_sector_id__ ```Number```
+* __var_system_starmultiplicity__ ```String```
+* __var_system_stellarclass__ ```String```
+
