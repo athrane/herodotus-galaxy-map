@@ -3,12 +3,16 @@
 * __var_is_sector_selected__ ```Number```
 * __var_is_system_selected__ ```Number```
 * __var_planetarysystems_pos_array__ ```Array```
+* __var_render_debug_info__ ```Number```
+* __var_render_sectors__ ```Number```
+* __var_render_systems__ ```Number```
 * __var_sector_coord__ ```String```
 * __var_sector_id__ ```String```
 * __var_sector_name__ ```String```
 * __var_sector_pos_x__ ```Number```
 * __var_sector_pos_y__ ```Number```
 * __var_sector_pos_z__ ```Number```
+* __var_sectors_pos_array__ ```Array```
 * __var_selected_object__ ```String```
 * __var_selected_sector__ ```Number```
 * __var_selected_system__ ```Number```
